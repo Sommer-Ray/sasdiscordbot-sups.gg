@@ -1,0 +1,25 @@
+{
+
+  "name": "SAS Discord bot",
+
+  "description": "This bot is for a Garry's Mod server, it has nothing to do with the actual SAS in anyway shape or form.",
+
+  "version": "0.0.0",
+
+  "main": "bot.js",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
